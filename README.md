@@ -7,12 +7,19 @@
 - Pillow
 
 ## Steps to install the dependencies
-1. Clone the repository.
-2. Go to the install folder, select the folder based on your operating system, and run the install executable command file. The command file should be able to download all the dependencies and put them in the correct directory in your machine. (If it does not work, please proceed to alternative step 2)
-3. Connect Tello Drone via wifi connection
-4. Go back to the root folder and run “python main.py”. 
+1. Clone the repository
+2. In the install folder, select the folder based on your operating system. Execute the install.bat file. 
+3. Connect Tello Drone via Wifi connection
+4. Back to root folder and execute the command “python main.py”
 
-Alternative Step 2: If you’re using Windows x64, download all the dependencies [here](https://drive.google.com/file/d/1AbLtbysuR9R_5IfxMQPts3G8F1mCFCv0/view?usp=sharing). Extract it to [YOUR_PYTHON_2.7_PATH]/Lib/site-packages folder. 
+If the above steps do not work, the Alternative Steps:
+
+1. Clone the repository
+2. For Windows x64, download all the dependencies [here](https://drive.google.com/file/d/1CXXZegrHmC182arBraIqEr-mNd66mmQk/view).
+3. Extract the downloaded zip file in Step 2 to [YOUR_PYTHON_2.7_PATH]/Lib/site-packages folder.
+4. Connect Tello Drone via Wifi connection
+5. Back to root folder and execute the command “python main.py”
+
 
 ## Steps to run the application:
 - Step 1 - Install the dependencies
